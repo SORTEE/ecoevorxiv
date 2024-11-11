@@ -106,17 +106,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
-# Site Author
-author:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/ecoevorxiv?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/SORTEE/ecoevorxiv/tree/main"
-
 # Site Footer
 footer:
   links:
