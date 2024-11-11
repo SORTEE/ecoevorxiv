@@ -109,9 +109,6 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
-  avatar           : ""
-  bio              : ""
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
