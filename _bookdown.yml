@@ -1,5 +1,6 @@
 delete_merged_file: true
-language:
-  ui:
-    chapter_name: "Chapter "
+config:
+    toc: true
+    toc_depth: 2
+    theme: simplex
 output_dir: "docs"
