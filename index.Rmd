@@ -6,17 +6,11 @@ site: bookdown::bookdown_site
 url: "https://sortee.github.io/ecoevorxiv/"
 cover-image: "_main_files/logo.png"
 description: |
-  EcoEvoRxiv website.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
-link-citations: yes
-github-repo: rstudio/bookdown-demo
+  Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology
+github-repo: "rstudio/bookdown-demo"
 ---
 
 
 
-```{r, eval=FALSE}
-bookdown::render_book("index.Rmd", "bookdown::gitbook")
-```
 
 
