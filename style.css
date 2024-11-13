@@ -12,9 +12,3 @@ pre {
 pre code {
   white-space: inherit;
 }
-
-/* Adjust the size of the logo */
-.cover-image {
-  width: 50px;  /* Change width as needed */
-  margin: 0 auto;  /* Center the image */
-}

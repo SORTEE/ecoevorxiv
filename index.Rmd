@@ -1,16 +1,16 @@
---- 
+---
 title: "EcoEvoRxiv"
-author: ''
+author: ""
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 url: "https://sortee.github.io/ecoevorxiv/"
 cover-image: "_main_files/logo.png"
 description: |
   Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology
-github-repo: rstudio/bookdown-demo
+github-repo: "rstudio/bookdown-demo"
 output: 
-  bookdown::gitbook: 
-    split_by: none
+  rmarkdown::html_document:
+    theme: simplex
 ---
 
 # Welcome to EcoEvoRxiv!
