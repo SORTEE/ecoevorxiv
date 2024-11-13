@@ -6,3 +6,8 @@ hello-bookdown-2
 a-section-2
 hello-bookdown-3
 a-section-3
+about-us
+policy
+submit-preprints
+modify-submissions
+welcome-to-ecoevorxiv
