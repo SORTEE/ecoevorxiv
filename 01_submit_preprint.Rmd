@@ -1,15 +1,11 @@
 # Submit preprints
 
-<summary style=font-size:18px> **EcoEvoRxiv** provides a platform for researchers to share their research before formal peer review. By submitting a preprint, you can quickly disseminate your findings, receive early feedback, and enhance the visibility of your work. Our goal is to make the submission process as straightforward as possible, helping you engage with your peers and contribute to ongoing discussions in ecology and evolution. </summary> 
+EcoEvoRxiv provides a platform for researchers to share their research before formal peer review. By submitting a preprint, you can quickly disseminate your findings, receive early feedback, and enhance the visibility of your work. Our goal is to make the submission process as straightforward as possible, helping you engage with your peers and contribute to ongoing discussions in ecology and evolution.   
 
-## Basic rules {-} 
-<summary style=font-size:14px> EcoEvoRxiv welcomes preprints across all areas of ecology and evolution. Each submission undergoes a review process by our editorial team to ensure it aligns with our repository’s policy. </summary> 
+### Basic rules
 
+EcoEvoRxiv welcomes preprints across all areas of ecology and evolution. Each submission undergoes a review process by our editorial team to ensure it aligns with our repository’s policy.   
 
-## Submitting a preprint {-} 
-<summary style=font-size:14px> For step-by-step guidance on submitting a preprint, please watch our [tutorial video](https://www.youtube.com/watch?v=CUSbYNNrXuU). </summary>  
+### Submitting a preprint
 
-## What's next? {-} 
-<summary style=font-size:14px> Communication and advertising
-
-- Peer-review process?? </summary> 
+For step-by-step guidance on submitting a preprint, please watch our [tutorial video](https://www.youtube.com/watch?v=CUSbYNNrXuU).  
