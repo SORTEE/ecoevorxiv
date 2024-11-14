@@ -4,16 +4,41 @@ author: ""
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 url: "https://sortee.github.io/ecoevorxiv/"
-cover-image: "_main_files/logo.png"
+cover-image: "assets/logo.png"
 description: |
   Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology
 github-repo: "rstudio/bookdown-demo"
 output: 
   rmarkdown::html_document:
-    theme: simplex
+    theme: "lux"
 ---
 
-# Welcome to EcoEvoRxiv!
+# Welcome to EcoEvoRxiv! {-}
 
+<summary style=font-size:18px> EcoEvoRxiv is an open-access pre-print server for ecological and evolutionary research. Our goal is to facilitate researchers sharing their findings before formal publication by providing a platform for cutting-edge research in the fields of ecology and evolutionary biology. </summary>    
+
+# Why use a pre-print server? {-}
+
+#### They’re quick!
+  <summary style=font-size:14px> Preprints are a way of disseminating your findings before a long [peer-reviewed process](https://www.nature.com/articles/530148a). This means your work won’t be out of date by the time people read it. </summary>
+  
+#### Open access
+  <summary style=font-size:14px> Your work can reach researchers and others who do not have access to pay walled publications. </summary>   
+
+#### Improved science
+  <summary style=font-size:14px> Once you’ve posted a preprint, other researchers may offer feedback on it via email or social media.It is a chance to catch mistakes, improve clarity and grow, before it’s committed to publication. </summary>  
+
+#### Citations 
+  <summary style=font-size:14px> Preprints can be cited, and can be used to establish precedence of your work. </summary>  
+
+
+## Contact Us {-}
+
+For inquiries, please reach out to [info@ecoevorxiv.org](mailto:info@ecoevorxiv.org).
+
+## Follow Us {-}
+
+Stay updated by following us on:
+[Twitter](https://twitter.com/EcoEvoRxiv)
 
 

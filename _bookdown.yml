@@ -2,7 +2,5 @@ delete_merged_file: true
 output_dir: "docs"
 rmd_files:
   - index.Rmd
-  - 01_about_us.Rmd
-  - 02_policy.Rmd
-  - 03_submit_preprint.Rmd
-  - 04_modify_submission.Rmd
+  - 01_submit_preprint.Rmd
+  - 02_modify_submission.Rmd
