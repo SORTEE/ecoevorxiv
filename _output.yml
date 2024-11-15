@@ -1,7 +1,5 @@
 bookdown::gitbook:
   config:
-    toc: true
-    toc_depth: 2
-  split_by: none  # Make sure this is set to `none`
+    collapse: none
   css: style.css  # Add your CSS here if needed
   self_contained: true

@@ -2,7 +2,7 @@
 title: "EcoEvoRxiv"
 author: "SORTEE"
 description: "Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology"
-date: "`r Sys.Date()`"
+date: "2024-11-15"
 site: bookdown::bookdown_site
 url: https://sortee.github.io/ecoevorxiv/
 github-repo: "SORTEE/ecoevorxiv"
@@ -10,14 +10,11 @@ link-citations: yes
 colorlinks: yes
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(results = 'asis' , eval = TRUE)
-options(digits=2)
-```
+
 
 ![ ](assets/logo.png)
 
-`r Sys.Date()`
+2024-11-15
 
 <summary style=font-size:20px> *Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology* </summary>
 
