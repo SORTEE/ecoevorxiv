@@ -15,10 +15,6 @@ knitr::opts_chunk$set(results = 'asis' , eval = TRUE)
 options(digits=2)
 ```
 
-![ ](assets/logo.png)
-
-`r Sys.Date()`
-
 <summary style=font-size:20px> *Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology* </summary>
 
 # Welcome to EcoEvoRxiv!
@@ -52,4 +48,7 @@ For inquiries, please reach out to [ecoevorxiv@gmail.com](ecoevorxiv@gmail.com).
 
 Stay updated by following us on [<img src="assets/twitter.png" alt="Twitter" width="25" heigh="25"/>](https://twitter.com/EcoEvoRxiv)  
 
-
+```{js, echo = FALSE}
+title=document.getElementById('header');
+title.innerHTML = '<img src="assets/logo.png" alt="Test Image">' + title.innerHTML
+```
