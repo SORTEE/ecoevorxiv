@@ -1,5 +1,8 @@
 bookdown::gitbook:
   config:
-    collapse: none
+    toc:
+      collapse: none
+      before: |
+        <li class="toc-logo"><a href="./"><img src="assets/logo.png"></a></li>
   css: style.css  # Add your CSS here if needed
   self_contained: true
