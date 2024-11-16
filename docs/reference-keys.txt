@@ -1,12 +1,9 @@
 welcome-to-ecoevorxiv
+why-use-a-pre-print-server
+contact-us
+follow-us
 submit-preprints
 basic-rules
-submitting-a-manuscript
-whats-next
+submitting-a-preprint
 modify-submissions
 updating-or-modifying-your-manuscript
-a-section
-theyre-quick
-open-access
-improved-science
-citations

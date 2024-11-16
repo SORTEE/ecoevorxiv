@@ -1,14 +1,13 @@
 ---
-title: "  "
-author: ""
-output: 
-  bookdown::html_document2:
-    code_folding: hide
-    number_sections: no
-    toc: yes
-    toc_float: yes
-editor_options: 
-  chunk_output_type: console
+title: "EcoEvoRxiv"
+author: "SORTEE"
+description: "Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+url: https://sortee.github.io/ecoevorxiv/
+github-repo: "SORTEE/ecoevorxiv"
+link-citations: yes
+colorlinks: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -20,7 +19,9 @@ options(digits=2)
 
 `r Sys.Date()`
 
-## Welcome to EcoEvoRxiv!
+<summary style=font-size:20px> *Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology* </summary>
+
+# Welcome to EcoEvoRxiv!
 
 EcoEvoRxiv is an open-access pre-print server for ecological and evolutionary research. Our goal is to facilitate researchers sharing their findings before formal publication by providing a platform for cutting-edge research in the fields of ecology and evolutionary biology.     
 
@@ -43,8 +44,19 @@ Once you’ve posted a preprint, other researchers may offer feedback on it via 
 Preprints can be cited, and can be used to establish precedence of your work.   
 
 
+### Contact Us
 
-## Submit preprints
+For inquiries, please reach out to [ecoevorxiv@gmail.com](ecoevorxiv@gmail.com).  
+
+### Follow Us
+
+Stay updated by following us on [<img src="assets/twitter.png" alt="Twitter" width="25" heigh="25"/>](https://twitter.com/EcoEvoRxiv)  
+
+
+
+<!--chapter:end:index.Rmd-->
+
+# Submit preprints
 
 EcoEvoRxiv provides a platform for researchers to share their research before formal peer review. By submitting a preprint, you can quickly disseminate your findings, receive early feedback, and enhance the visibility of your work. Our goal is to make the submission process as straightforward as possible, helping you engage with your peers and contribute to ongoing discussions in ecology and evolution.   
 
@@ -56,8 +68,9 @@ EcoEvoRxiv welcomes preprints across all areas of ecology and evolution. Each su
 
 For step-by-step guidance on submitting a preprint, please watch our [tutorial video](https://www.youtube.com/watch?v=CUSbYNNrXuU).  
 
+<!--chapter:end:01_submit_preprint.Rmd-->
 
-## Modify submissions 
+# Modify submissions 
 
 At EcoEvoRxiv, we recognize that manuscripts often evolve, particularly after peer review. Our platform allows authors to update their accepted and published preprints, ensuring that the most current version of your research is always available to the community. 
 
@@ -67,12 +80,8 @@ For step-by-step guidance on updating your preprint, please watch our [tutorial 
 
 
 
-#### Contact Us
 
-For inquiries, please reach out to [ecoevorxiv@gmail.com](ecoevorxiv@gmail.com).  
 
-#### Follow Us
 
-Stay updated by following us on [<img src="assets/twitter.png" alt="Twitter" width="25" heigh="25"/>](https://twitter.com/EcoEvoRxiv)  
-
+<!--chapter:end:02_modify_submission.Rmd-->
 
