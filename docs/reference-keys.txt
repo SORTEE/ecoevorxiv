@@ -7,3 +7,8 @@ basic-rules
 submitting-a-preprint
 modify-submissions
 updating-or-modifying-your-manuscript
+people
+frequently-asked-questions
+policy
+basic-requirements-for-paper-submissions
+licensing
