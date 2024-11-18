@@ -2,6 +2,7 @@ delete_merged_file: true
 output_dir: docs
 rmd_files:
   - "index.Rmd"
-  - "01_submit_preprint.Rmd"
-  - "02_modify_submission.Rmd"
+  - "01_people.Rmd"
+  - "02_FAQ.Rmd"
+  - "03_policy.Rmd"
 new_session: true
