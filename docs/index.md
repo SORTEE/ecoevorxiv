@@ -16,7 +16,13 @@ colorlinks: yes
 
 # Welcome to EcoEvoRxiv!
 
-EcoEvoRxiv is an open-access pre-print server for ecological and evolutionary research. Our goal is to facilitate researchers sharing their findings before formal publication by providing a platform for cutting-edge research in the fields of ecology and evolutionary biology.     
+EcoEvoRxiv ("eco-evo-archive") is a not-for-profit subject-matter specific research repository for works related to ecology, evolution, conservation, and related fields. The archived works can be empirical, theoretical, reviews or of any other research-related type.
+
+The EcoEvoRxiv server can be used for freely and legally sharing preprints, postprints, reports, and datasets.
+For more information about preprints and preprint servers, please see our [FAQ page](FAQ). 
+
+EcoEvoRxiv started as part of the Transparency in Ecology and Evolution (TEE) movement in 2018, and was originally hosted by the [Open Science Framework](https://osf.io/). In October of 2022 the EcoEvoRxiv server [transitioned](https://cdlib.org/cdlinfo/2022/10/19/ecoevorxiv-partners-with-california-digital-library-to-re-launch-preprint-service-on-janeway/) to being hosted by the [California Digital Library](https://cdlib.org/services/pad/escholarship/), and EcoEvoRxiv became an official preprint server of the [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology](http://www.sortee.org/) (SORTEE).
+
 
 ## Why use a pre-print server?
 
@@ -39,7 +45,7 @@ Preprints can be cited, and can be used to establish precedence of your work.
 
 ## Contact Us
 
-For inquiries, please reach out to [ecoevorxiv@gmail.com](ecoevorxiv@gmail.com).  
+EcoEvoRxiv is administered by the EcoEvoRxiv Committee. The chair of this committee is selected by the Board of Directors of SORTEE, and the members of the EcoEvoRxiv committee are selected by the chair of the EcoEvoRxiv committee and the SORTEE board. If you would like to join the EcoEvoRxiv committee, please contact the [committee’s current chair](People).  
 
 ## Follow Us
 
