@@ -1,6 +1,6 @@
 # Policy
 
-## Basic Requirements for Paper Submissions
+## Basic Requirements for Paper Submissions {-}
 
 The EcoEvoRxiv server publishes preprints, postprints, reports, and data papers that contribute to the understanding of and advances in Ecology, Evolutionary Biology, Conservation Biology, and related fields. EcoEvoRxiv welcomes manuscripts based on empirical and simulation data, as well as literature reviews, theory, and opinion, perspective, and comment pieces.
 
@@ -20,7 +20,7 @@ For postprints, it is the authors’ responsibility to connect their postprint t
 Note that preprints can be withdrawn if serious issues with a manuscript are identified after the preprint has been published. For example, EcoEvoRxiv reserves the right to withdraw a preprint if requested by the authors (e.g., due to significant errors or omissions), in the event of conflicts among authors or third parties (e.g., disagreement on authorship or data ownership), or in instances where there is evidence of scientific misconduct (e.g., plagiarism, data fabrication or falsification). Preprints can be resubmitted if errors are corrected and/or conflicts resolved.
 EcoEvoRxiv may update this publication policy at any time.
 
-## Licensing
+## Licensing {-}
 
 One of the following re-use licenses must be applied to your submission:
  - CC BY 4.0 - Creative Commons Attribution 4.0 International [details](https://creativecommons.org/licenses/by/4.0/)

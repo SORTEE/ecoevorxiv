@@ -2,7 +2,7 @@
 
 EcoEvoRxiv is managed by the [SORTEE EcoEvoRxiv Committee](https://www.sortee.org/people/#ecoevorxiv-committee), chaired by [Daniel Noble](http://nobledan.com/).
 
-## Founding committee members {.unnumbered}
+## Founding committee members {-}
 
 COMMITTEE CO-CHAIRS:
 [Shinichi Nakagawa - UNSW Sydney, Australia](http://www.i-deel.org/shinichi-nakagawa.html)
@@ -24,7 +24,7 @@ COMMITTEE MEMBERS:
 [Irene Adrian-Kalchhauser - University of Basel, Switzerland](https://mgu.unibas.ch/en/team/irene-adrian-kalchhauser/)
 
 
-## Ambassadors {.unnumbered}
+## Ambassadors {-}
 
 [Keisuke Atsumi - Hokkaido University, Japan](https://ugui-guigui.wixsite.com/ugui-guigui)
 [Jose Cerca - Natural History Museum in Oslo](http://jcerca.org/)
