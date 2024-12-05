@@ -27,7 +27,8 @@ Some journals, though very few these days, may not accept your article if it has
 ## We already have preprint providers such as [bioRxiv](https://www.biorxiv.org/), why another one? {-}
 We started EcoEvoRxiv to encourage archiving of preprints in ecology and evolutionary biology whether that be in EcoEvoRxiv, or elsewhere. Despite the benefits of preprints, the proportion of researchers using them is still low. 
 
-Having said that, EcoEvoRxiv has some distinct advantages:   
+Having said that, EcoEvoRxiv has some distinct advantages:  
+
  - EcoEvoRxiv accepts postprints. Some servers will not accept manuscripts that have already been accepted by a peer-reviewed journal. However, as we describe above, postprints are an important tool for increasing accessibility for people with limited financial resources.
  - EcoEvoRxiv accepts reviews.  Access to review papers is often vital, especially for early career scientists, and so EcoEvoRxiv welcomes these manuscripts. 
  - EcoEvoRxiv accepts hypothesis papers.  EcoEvoRxiv will accept papers that introduce hypotheses in the absence of empirical tests or mathematical theory, as long as the paper is grounded in the fields of ecology or evolutionary biology.
