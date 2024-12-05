@@ -23,6 +23,7 @@ EcoEvoRxiv may update this publication policy at any time.
 ## Licensing {-}
 
 One of the following re-use licenses must be applied to your submission:
+
  - CC BY 4.0 - Creative Commons Attribution 4.0 International [details](https://creativecommons.org/licenses/by/4.0/)
  - CC BY-NC 4.0 - Creative Commons Attribution-Non-Commercial 4.0 International [details](https://creativecommons.org/licenses/by-nc/4.0/)
  - CC BY-ND 4.0 - Creative Commons Attribution-No Derivatives 4.0 International [details](https://creativecommons.org/licenses/by-nd/4.0/)
