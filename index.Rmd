@@ -7,6 +7,7 @@ site: bookdown::bookdown_site
 url: https://sortee.github.io/ecoevorxiv/
 github-repo: "SORTEE/ecoevorxiv"
 link-citations: yes
+favicon: assets/favicon.svg
 colorlinks: yes
 ---
 
