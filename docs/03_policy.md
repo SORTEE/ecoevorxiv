@@ -5,13 +5,14 @@
 The EcoEvoRxiv server publishes preprints, postprints, reports, and data papers that contribute to the understanding of and advances in Ecology, Evolutionary Biology, Conservation Biology, and related fields. EcoEvoRxiv welcomes manuscripts based on empirical and simulation data, as well as literature reviews, theory, and opinion, perspective, and comment pieces.
 
 EcoEvoRxiv hosts manuscripts:
-Written in English, Spanish,  Portuguese, and French
-Of high quality with regard to structure, data presentation, and validity of conclusions
-From the scientific disciplines of Ecology, Evolutionary Biology, Conservation Biology, or related fields.
-Containing a title, author name(s) and affiliation(s)
-Providing details of  correspondence for at least one author
-Free from personal attacks
-Manuscripts will not be hosted when violations of these policies are detected.
+
+ - Written in English, Spanish,  Portuguese, and French
+ - Of high quality with regard to structure, data presentation, and validity of conclusions
+ - From the scientific disciplines of Ecology, Evolutionary Biology, Conservation Biology, or related fields.
+ - Containing a title, author name(s) and affiliation(s)
+ - Providing details of  correspondence for at least one author
+ - Free from personal attacks
+ - Manuscripts will not be hosted when violations of these policies are detected.
 
 Empirical and theoretical manuscripts will be assessed by at least one editorial member to decide whether to accept or reject the manuscript, whereas an opinion or review article may be assessed by two or more members.
 
