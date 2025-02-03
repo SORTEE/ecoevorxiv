@@ -2,7 +2,7 @@
 title: "EcoEvoRxiv"
 author: "SORTEE"
 description: "Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology"
-date: "`r Sys.Date()`"
+date: "Last updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 url: https://sortee.github.io/ecoevorxiv/
 github-repo: "SORTEE/ecoevorxiv"

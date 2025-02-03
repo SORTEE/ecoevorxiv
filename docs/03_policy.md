@@ -2,7 +2,9 @@
 
 ## Basic Requirements for Paper Submissions {-}
 
-The EcoEvoRxiv server publishes preprints, postprints, reports, and data papers that contribute to the understanding of and advances in Ecology, Evolutionary Biology, Conservation Biology, and related fields. EcoEvoRxiv welcomes manuscripts based on empirical and simulation data, as well as literature reviews, theory, and opinion, perspective, and comment pieces.
+The EcoEvoRxiv server publishes preprints, postprints, reports, and data papers that contribute to the understanding of and advances in Ecology, Evolutionary Biology, Conservation Biology, and related fields. 
+
+EcoEvoRxiv welcomes manuscripts based on empirical and simulation data, as well as literature reviews, theory, and opinion, perspective, and comment pieces.
 
 EcoEvoRxiv hosts manuscripts:
 
@@ -10,9 +12,10 @@ EcoEvoRxiv hosts manuscripts:
  - Of high quality with regard to structure, data presentation, and validity of conclusions
  - From the scientific disciplines of Ecology, Evolutionary Biology, Conservation Biology, or related fields.
  - Containing a title, author name(s) and affiliation(s)
- - Providing details of  correspondence for at least one author
+ - Providing details of  correspondence (at minimum an email address) for at least one author
  - Free from personal attacks
- - Manuscripts will not be hosted when violations of these policies are detected.
+ 
+*Manuscripts will not be hosted when violations of these policies are detected.*
 
 Empirical and theoretical manuscripts will be assessed by at least one editorial member to decide whether to accept or reject the manuscript, whereas an opinion or review article may be assessed by two or more members.
 
@@ -25,12 +28,12 @@ EcoEvoRxiv may update this publication policy at any time.
 
 One of the following re-use licenses must be applied to your submission:
 
- - CC BY 4.0 - Creative Commons Attribution 4.0 International [details](https://creativecommons.org/licenses/by/4.0/)
- - CC BY-NC 4.0 - Creative Commons Attribution-Non-Commercial 4.0 International [details](https://creativecommons.org/licenses/by-nc/4.0/)
- - CC BY-ND 4.0 - Creative Commons Attribution-No Derivatives 4.0 International [details](https://creativecommons.org/licenses/by-nd/4.0/)
- - CC BY-SA 4.0 - Creative Commons Attribution-Share Alike 4.0 International [details](https://creativecommons.org/licenses/by-sa/4.0/)
- - CC BY-NC-ND 4.0 - Creative Commons Attribution-Non-Commercial-No Derivatives 4.0 International [details](https://creativecommons.org/licenses/by-nc-nd/4.0/)
- - CC BY-NC-SA 4.0 - Creative Commons Attribution-Non-Commercial-Share Alike 4.0 International [details](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+ - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Creative Commons Attribution 4.0 International
+ - [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - Creative Commons Attribution-Non-Commercial 4.0 International
+ - [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) - Creative Commons Attribution-No Derivatives 4.0 International
+ - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Creative Commons Attribution-Share Alike 4.0 International
+ - [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) - Creative Commons Attribution-Non-Commercial-No Derivatives 4.0 International
+ - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Creative Commons Attribution-Non-Commercial-Share Alike 4.0 International
  - No CC license - No Creative Commons license will be applied
  
 Not sure which license to choose? [Answer the questions at Creative Commons' license selector](https://creativecommons.org/choose/) to find the right license, or see this [FAQ from arXiv](https://arxiv.org/help/license) on licenses and preprints.
