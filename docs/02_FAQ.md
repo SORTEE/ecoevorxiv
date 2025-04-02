@@ -38,3 +38,8 @@ Having said that, EcoEvoRxiv has some distinct advantages:
 
 ## How can I submit a manuscript in EcoEvoRxiv? {-}
 For step-by-step guidance on submitting a preprint, please watch our [tutorial video](https://www.youtube.com/watch?v=CUSbYNNrXuU). 
+
+## My preprint is now accepted in a peer-reviewed journal. How can I connect the published DOI to my preprint on EcoEvoRxiv? {-}
+If your preprint has now been through peer review and been allocated a publication DOI you can easily update your preprint on *EcoEvoRxiv* to display the publication DOI. 
+
+To do this, log in to your *EcoEvoRxiv* submission page and head to your "Dashboard". Click on the preprint of interest and click "Update Preprint" on the right side of the screen under your metrics. You will have three choices: 1) "New Version", 2) "Correction" or 3) "Metadata Correction". Any of these options will work, but if it's just updating a DOI we suggest choosing option 3. On the first page you will be able to update meta-data. You will now see a "Published Article DOI" box. Insert your DOI in this box and clock "Submit Update". Your preprint will now be updated with the DOI of your published article which will be displayed on the preprint page above the article once an Editor approves the update. 
