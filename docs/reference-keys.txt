@@ -1,4 +1,14 @@
 welcome-to-ecoevorxiv
 people
 frequently-asked-questions
+whatispreprint
+whatispreprintserver
+preprinttypes
+publisherpolicies
+whypreprints
+whenupload
+whynot
+whyecoevorxiv
+submitting
+published-doi
 policy
