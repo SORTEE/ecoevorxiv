@@ -22,6 +22,9 @@ Empirical and theoretical manuscripts will be assessed by at least one editorial
 For postprints, it is the authors’ responsibility to connect their postprint to the published version of the article and ensure that the postprint adheres to the publisher’s copyright and self-archiving policy. Publisher policies on self-archiving of preprints and postprints can be found on the Sherpa-Romeo webpage.
 
 Note that preprints can be withdrawn if serious issues with a manuscript are identified after the preprint has been published. For example, EcoEvoRxiv reserves the right to withdraw a preprint if requested by the authors (e.g., due to significant errors or omissions), in the event of conflicts among authors or third parties (e.g., disagreement on authorship or data ownership), or in instances where there is evidence of scientific misconduct (e.g., plagiarism, data fabrication or falsification). Preprints can be resubmitted if errors are corrected and/or conflicts resolved.
+
+Like other preprint servers, EcoEvoRxiv is inclined to reject submissions that are found to be posted on other platforms. Having the same preprint posted on multiple platforms, authors may find it difficult to keep the different versions on the different platforms updated; may cause issues with citations and other usage metrics, making it difficult to track downstream impacts of the preprint; and creates unnecessary redundancy in academic literature.
+
 EcoEvoRxiv may update this publication policy at any time.
 
 ## Licensing {-}
