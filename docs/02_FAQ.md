@@ -41,11 +41,7 @@ Having said that, EcoEvoRxiv has some distinct advantages:
 ## How can I submit a manuscript in EcoEvoRxiv? {#submitting}
 For step-by-step guidance on submitting a preprint, please watch our [tutorial video](https://www.youtube.com/watch?v=CUSbYNNrXuU). 
 
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/CUSbYNNrXuU" 
-        frameborder="0" 
-        allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CUSbYNNrXuU" frameborder="0" allowfullscreen></iframe>
 
 ## My preprint is now accepted in a peer-reviewed journal. How can I connect the published DOI to my preprint on EcoEvoRxiv? {#published-doi}
 If your preprint has now been through peer review and been allocated a publication DOI you can easily update your preprint on *EcoEvoRxiv* to display the publication DOI. 
