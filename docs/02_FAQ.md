@@ -1,5 +1,11 @@
 # Frequently Asked Questions 
 
+```
+## 
+## The downloaded binary packages are in
+## 	/var/folders/yc/mlymp0ws1tl27fg1z2w0_zb00000gp/T//RtmpbTFJYK/downloaded_packages
+```
+
 ## What is a preprint? {#whatispreprint}
 A preprint is a manuscript published on a preprint server without peer review. Preprints can subsequently be submitted to a scholarly journal to undergo peer review.
 
@@ -41,7 +47,14 @@ Having said that, EcoEvoRxiv has some distinct advantages:
 ## How can I submit a manuscript in EcoEvoRxiv? {#submitting}
 For step-by-step guidance on submitting a preprint, please watch our [tutorial video](https://www.youtube.com/watch?v=CUSbYNNrXuU). 
 
-![](https://www.youtube.com/watch?v=CUSbYNNrXuU){width="560" height="315"}
+
+```{=html}
+<div class="vembedr" align="center">
+<div>
+<iframe src="https://www.youtube.com/embed/CUSbYNNrXuU" width="533" height="300" frameborder="0" allowfullscreen="" data-external="1"></iframe>
+</div>
+</div>
+```
 
 ## My preprint is now accepted in a peer-reviewed journal. How can I connect the published DOI to my preprint on EcoEvoRxiv? {#published-doi}
 If your preprint has now been through peer review and been allocated a publication DOI you can easily update your preprint on *EcoEvoRxiv* to display the publication DOI. 
