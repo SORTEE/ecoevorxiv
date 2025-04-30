@@ -19,7 +19,9 @@ Most journals accept manuscripts previously archived as preprints. You can check
  - Citations. Preprints can be cited, and can be used to establish precedence of your work.  
  
 ## When should I upload my preprint? {#whenupload}
-You can upload your preprint anytime  you’re ready to share it with the community. You may wish to upload well before submitting to a journal, for instance if you hope to receive feedback to improve the manuscript prior to formal peer review. Or you may wish to upload at the same time you submit to a journal.  If you wait to upload until after the manuscript is accepted by a journal, this is technically no longer a ‘preprint’, and is instead known as a ‘postprint’. Some preprint servers do not accept postprints, but EcoEvoRxiv does. However, be aware that journals may limit public archiving of postprints, so check the journal policies.  
+You can upload your preprint anytime  you’re ready to share it with the community. You may wish to upload well before submitting to a journal, for instance if you hope to receive feedback to improve the manuscript prior to formal peer review. Or you may wish to upload at the same time you submit to a journal.  
+
+If you wait to upload until after the manuscript is accepted by a journal, this is technically no longer a ‘preprint’, and is instead known as a ‘postprint’. Some preprint servers do not accept postprints, but *EcoEvoRxiv* does. However, be aware that journals may limit public archiving of postprints, so check the journal policies. In addition, it is very important that authors check journal policies around postprints because fully copyedited manuscripts may not be allowed. If this is the case, the safest and most general option is to simply upload the last version of the manuscript prior to copyediting. Editors will check and not approve fully formatted postprints in their journal style if it is not allowed as this may violate copyright agreements.
 
 ## So, why wouldn’t you? {#whynot}
 Some journals, though very few these days, may not accept your article if it has been posted as a preprint. The number of journals in this category is small and decreasing.  You can check your target journal's policy [here](https://en.wikipedia.org/wiki/List_of_academic_journals_by_preprint_policy) or [here](https://v2.sherpa.ac.uk/romeo/).  
@@ -34,10 +36,16 @@ Having said that, EcoEvoRxiv has some distinct advantages:
  - EcoEvoRxiv accepts hypothesis papers.  EcoEvoRxiv will accept papers that introduce hypotheses in the absence of empirical tests or mathematical theory, as long as the paper is grounded in the fields of ecology or evolutionary biology.
  - EcoEvoRxiv accepts opinion pieces.  Debates about scientific ideas and discussions of scientific policy are welcome at EcoEvoRxiv.
  - EcoEvoRxiv accepts white papers and reports.  Organisations often produce important synthesis documents or reports based on new empirical information, and these documents can be of great interest to ecologists and evolutionary biologists. Unfortunately, these documents can also be difficult to locate, but we hope to improve access to these important resources by allowing them at EcoEvoRxiv. 
- - EcoEvoRxiv accepts English, Spanish, Portuguese, and French preprints. EcoEvoRxiv is currently the only preprint server in biology to accept non-English language manuscripts. This is a deliberate move to break down language barriers to science.
+ - EcoEvoRxiv accepts English, Spanish, Portuguese, French, Italian, German, Dutch, Greek, Korean and Japanese preprints. EcoEvoRxiv is currently the only preprint server in biology to accept non-English language manuscripts. This is a deliberate move to break down language barriers to science.
 
 ## How can I submit a manuscript in EcoEvoRxiv? {#submitting}
 For step-by-step guidance on submitting a preprint, please watch our [tutorial video](https://www.youtube.com/watch?v=CUSbYNNrXuU). 
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/CUSbYNNrXuU" 
+        frameborder="0" 
+        allowfullscreen>
+</iframe>
 
 ## My preprint is now accepted in a peer-reviewed journal. How can I connect the published DOI to my preprint on EcoEvoRxiv? {#published-doi}
 If your preprint has now been through peer review and been allocated a publication DOI you can easily update your preprint on *EcoEvoRxiv* to display the publication DOI. 
