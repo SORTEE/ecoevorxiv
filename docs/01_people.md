@@ -1,6 +1,6 @@
 # People {#people}
 
-EcoEvoRxiv is managed by the [SORTEE EcoEvoRxiv Committee](https://www.sortee.org/people/#ecoevorxiv-committee), chaired by [Daniel Noble](http://nobledan.com/).
+EcoEvoRxiv is managed by the [SORTEE EcoEvoRxiv Committee](https://www.sortee.org/people/#ecoevorxiv-committee), co-chaired by [Daniel Noble](http://nobledan.com/) and [Stefan Vriend](https://nioo.knaw.nl/en/employees/stefan-vriend).
 
 ## Founding committee members {-}
 

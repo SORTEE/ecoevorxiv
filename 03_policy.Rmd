@@ -8,9 +8,9 @@ EcoEvoRxiv welcomes manuscripts based on empirical and simulation data, as well 
 
 EcoEvoRxiv hosts manuscripts:
 
- - Written in English, Spanish,  Portuguese, and French
+ - Written in English, Spanish, Portuguese, French, Italian, German, Dutch, Greek, Korean or Japanese
  - Of high quality with regard to structure, data presentation, and validity of conclusions
- - From the scientific disciplines of Ecology, Evolutionary Biology, Conservation Biology, or related fields.
+ - From the scientific disciplines of Ecology, Evolutionary Biology, Conservation Biology, or related fields
  - Containing a title, author name(s) and affiliation(s)
  - Providing details of  correspondence (at minimum an email address) for at least one author
  - Free from personal attacks

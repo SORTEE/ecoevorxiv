@@ -1,10 +1,5 @@
 # Frequently Asked Questions 
 
-```
-## 
-## The downloaded binary packages are in
-## 	/var/folders/yc/mlymp0ws1tl27fg1z2w0_zb00000gp/T//RtmpbTFJYK/downloaded_packages
-```
 
 ## What is a preprint? {#whatispreprint}
 A preprint is a manuscript published on a preprint server without peer review. Preprints can subsequently be submitted to a scholarly journal to undergo peer review.
