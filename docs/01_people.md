@@ -4,13 +4,8 @@ EcoEvoRxiv is managed by the [SORTEE EcoEvoRxiv Committee](https://www.sortee.or
 
 ## Founding committee members {-}
 
-COMMITTEE CO-CHAIRS:
-
 - [Shinichi Nakagawa - UNSW Sydney, Australia](http://www.i-deel.org/shinichi-nakagawa.html)
 - [Fiona Fidler - University of Melbourne, Australia](https://fionaresearch.wordpress.com/about/)
-
-COMMITTEE MEMBERS:
-
 - [Amber Budden - DataOne, USA](https://www.dataone.org/organization/executive-team/amber-budden)
 - [Will Cornwell - UNSW Sydney, Australia](http://willcornwell.org/)
 - [Hannah Dugdale - University of Leeds, UK](https://hannahdugdale.wordpress.com/)
