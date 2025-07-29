@@ -18,26 +18,28 @@ options(digits=2)
 
 `r Sys.Date()`
 
-<summary style=font-size:20px> *Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology* </summary>
+<summary style="font-size:20px">
+
+*Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology*
+
+</summary>
 
 # Welcome to EcoEvoRxiv!
 
-EcoEvoRxiv ("eco-evo-archive") is a not-for-profit subject-matter specific research repository for works related to ecology, evolution, conservation, and related fields. The archived works can be empirical, theoretical, reviews or of any other research-related type.  
+EcoEvoRxiv ("eco-evo-archive") is a not-for-profit subject-matter specific research repository for works related to ecology, evolution, conservation, and related fields. The archived works can be empirical, theoretical, reviews or of any other research-related type.
 
-The EcoEvoRxiv server can be used for freely and legally sharing preprints, postprints, reports, and datasets.  
-For more information about preprints and preprint servers, please see our [FAQ page](02_FAQ.html).  
+The EcoEvoRxiv server can be used for freely and legally sharing preprints, postprints, reports, and datasets.\
+For more information about preprints and preprint servers, please see our [FAQ page](02_FAQ.html).
 
+## About Us {.unnumbered}
 
-## About Us {-}
+EcoEvoRxiv started as part of the Transparency in Ecology and Evolution (TEE) movement in 2018, and was originally hosted by the [Open Science Framework](https://osf.io/). In October of 2022 the EcoEvoRxiv server [transitioned](https://cdlib.org/cdlinfo/2022/10/19/ecoevorxiv-partners-with-california-digital-library-to-re-launch-preprint-service-on-janeway/) to being hosted by the [California Digital Library](https://cdlib.org/services/pad/escholarship/), and EcoEvoRxiv became an official preprint server of the [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology](http://www.sortee.org/) (SORTEE).
 
-EcoEvoRxiv started as part of the Transparency in Ecology and Evolution (TEE) movement in 2018, and was originally hosted by the [Open Science Framework](https://osf.io/). In October of 2022 the EcoEvoRxiv server [transitioned](https://cdlib.org/cdlinfo/2022/10/19/ecoevorxiv-partners-with-california-digital-library-to-re-launch-preprint-service-on-janeway/) to being hosted by the [California Digital Library](https://cdlib.org/services/pad/escholarship/), and EcoEvoRxiv became an official preprint server of the [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology](http://www.sortee.org/) (SORTEE).  
+EcoEvoRxiv is administered by the EcoEvoRxiv Committee. The chair of this committee is selected by the Board of Directors of SORTEE, and the members of the EcoEvoRxiv committee are selected by the chair of the EcoEvoRxiv committee and the SORTEE board. If you would like to join the EcoEvoRxiv committee, please contact the [committee’s current chair](#people).
 
+## Follow Us {.unnumbered}
 
-EcoEvoRxiv is administered by the EcoEvoRxiv Committee. The chair of this committee is selected by the Board of Directors of SORTEE, and the members of the EcoEvoRxiv committee are selected by the chair of the EcoEvoRxiv committee and the SORTEE board. If you would like to join the EcoEvoRxiv committee, please contact the [committee’s current chair](#people).  
-
-## Follow Us {-}
-
-Stay updated by following us on [<img src="assets/twitter.png" alt="Twitter" width="25" heigh="25"/>](https://twitter.com/EcoEvoRxiv)
+Stay updated by following us on [<img src="assets/twitter.png" alt="Twitter" width="25" height="25"/>](https://twitter.com/EcoEvoRxiv) or [<img src="assets/Bluesky_Logo.svg" alt="Bluesky" width="25" height="25"/>](https://bsky.app/profile/ecoevorxiv.bsky.social).
 
 ```{js, echo = FALSE}
 title=document.getElementById('header');
