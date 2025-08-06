@@ -15,7 +15,7 @@ EcoEvoRxiv hosts manuscripts:
 -   Providing details of correspondence (at minimum an email address) for at least one author
 -   Free from personal attacks
 
-## Important Policy Details
+## Important Policy Details {.unnumbered}
 
 - **If the submitted manuscript is missing a title page or details of correspondence, authors are requested to submit an updated version of the manuscript before further assessment**. If there is any doubt whether the submitted manuscript fits within the scope of Ecology, Evolutionary Biology, Conservation Biology, or related fields, authors are requested a clarification or justification for why they deem their work fitting for EcoEvoRxiv. In both instances, if authors do not respond *within 2 weeks*, the manuscript will be rejected.
 
@@ -27,7 +27,7 @@ EcoEvoRxiv hosts manuscripts:
 
 - **Like other preprint servers, EcoEvoRxiv is inclined to reject submissions that are found to be posted on other platforms**. Having the same preprint posted on multiple platforms, authors may find it difficult to keep the different versions on the different platforms updated; may cause issues with citations and other usage metrics, making it difficult to track downstream impacts of the preprint; and creates unnecessary redundancy in academic literature.
 
-- **For postprints, it is the authors’ responsibility to connect their postprint to the published version of the article and ensure that the postprint adheres to the publisher’s copyright and self-archiving policy**. Publisher policies on self-archiving of preprints and postprints can be found on the Sherpa-Romeo webpage.
+- **For postprints, it is the authors’ responsibility to connect their postprint to the published version of the article and ensure that the postprint adheres to the publisher’s copyright and self-archiving policy**. Publisher policies on self-archiving of preprints and postprints can be found on Jisc's Open Policy Finder (https://openpolicyfinder.jisc.ac.uk/; formerly Sherpa Romeo).
 
 *Manuscripts will not be hosted when violations of these policies are detected.* 
 

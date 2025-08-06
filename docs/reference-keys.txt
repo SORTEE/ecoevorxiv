@@ -13,4 +13,3 @@ submitting
 published-doi
 can-i-post-a-preprint-on-ecoevorxiv-and-other-preprint-servers-at-the-same-time
 policy
-important-policy-details

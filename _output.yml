@@ -4,5 +4,9 @@ bookdown::gitbook:
       collapse: none
       before: |
         <li class="toc-logo"><a href="./"><img src="assets/logo.png"></a></li>
+    sharing:
+      facebook: no
+      twitter: no
+      github: yes
   css: style.css  # Add your CSS here if needed
   self_contained: true
