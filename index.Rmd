@@ -28,7 +28,7 @@ options(digits=2)
 
 EcoEvoRxiv ("eco-evo-archive") is a not-for-profit subject-matter specific research repository for works related to ecology, evolution, conservation, and related fields. The archived works can be empirical, theoretical, reviews or of any other research-related type.
 
-The EcoEvoRxiv server can be used for freely and legally sharing preprints, postprints, reports, and datasets.\
+The EcoEvoRxiv server (https://ecoevorxiv.org/) can be used for freely and legally sharing preprints, postprints, reports, and datasets.\
 For more information about preprints and preprint servers, please see our [FAQ page](02_FAQ.html).
 
 ## About Us {.unnumbered}
