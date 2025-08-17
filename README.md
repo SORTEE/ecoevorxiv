@@ -6,6 +6,10 @@ This template provides a skeleton file structure that you can edit to create you
 
 The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
 
+To render the webpage use the following code
+
+`bookdown::render_book()`
+
 Additional resources:
 
 The **bookdown** book: https://bookdown.org/yihui/bookdown/

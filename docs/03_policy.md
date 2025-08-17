@@ -2,7 +2,7 @@
 
 ## Basic Requirements for Paper Submissions {.unnumbered}
 
-The EcoEvoRxiv server publishes preprints, postprints, reports, and data papers that contribute to the understanding of and advances in Ecology, Evolutionary Biology, Conservation Biology, and related fields.
+The EcoEvoRxiv server hosts preprints, postprints, reports, and data papers that contribute to the understanding of and advances in Ecology, Evolutionary Biology, Conservation Biology, and related fields.
 
 EcoEvoRxiv welcomes manuscripts based on empirical and simulation data, as well as literature reviews, theory, and opinion, perspective, and comment pieces. Empirical and theoretical manuscripts will be assessed by at least one editor, whereas an opinion or review article may be assessed by two or more editors.
 
@@ -19,11 +19,11 @@ EcoEvoRxiv hosts manuscripts:
 
 - **If the submitted manuscript is missing a title page or details of correspondence, authors are requested to submit an updated version of the manuscript before further assessment**. If there is any doubt whether the submitted manuscript fits within the scope of Ecology, Evolutionary Biology, Conservation Biology, or related fields, authors are requested a clarification or justification for why they deem their work fitting for EcoEvoRxiv. In both instances, if authors do not respond *within 2 weeks*, the manuscript will be rejected.
 
-- **EcoEvoRxiv has the right to reject submissions or suspend author accounts when Editors deem that the activity and / or submissions from an author / account are suspicious (e.g., high submission rates, use of AI to fully write a preprint)**. When in question, Editors will reach out to authors for an explanation prior to suspension. 
+- **EcoEvoRxiv has the right to reject submissions, withdraw past preprints, and / or suspend author accounts when Editors deem that the activity and / or submissions from an author / account are suspicious (e.g., high submission rates, use of AI to fully write a preprint)**. When in question, Editors will reach out to authors for an explanation prior to suspension. 
 
 - **Abusive or aggressive behaviour from authors will not be tolerated**. If such behaviour is noticed it will result in rejection and suspension of an account.
 
-- **Preprints can be withdrawn if serious issues with a manuscript are identified after the preprint has been published**. For example, EcoEvoRxiv reserves the right to withdraw a preprint if requested by the authors (e.g., due to significant errors or omissions), in the event of conflicts among authors or third parties (e.g., disagreement on authorship or data ownership), or in instances where there is evidence of scientific misconduct (e.g., plagiarism, data fabrication or falsification). Preprints can be resubmitted if errors are corrected and/or conflicts resolved.
+- **Preprints can be withdrawn if serious issues with a manuscript are identified after the preprint has been posted**. For example, EcoEvoRxiv reserves the right to withdraw a preprint if requested by the authors (e.g., due to significant errors or omissions), in the event of conflicts among authors or third parties (e.g., disagreement on authorship or data ownership), or in instances where there is evidence of scientific misconduct or suspicious publication practices (e.g., plagiarism, data fabrication or falsification, poor quality or AI generated manuscripts). Preprints can be resubmitted if errors are corrected and/or conflicts resolved.
 
 - **Like other preprint servers, EcoEvoRxiv is inclined to reject submissions that are found to be posted on other platforms**. Having the same preprint posted on multiple platforms, authors may find it difficult to keep the different versions on the different platforms updated; may cause issues with citations and other usage metrics, making it difficult to track downstream impacts of the preprint; and creates unnecessary redundancy in academic literature.
 
@@ -31,7 +31,7 @@ EcoEvoRxiv hosts manuscripts:
 
 *Manuscripts will not be hosted when violations of these policies are detected.* 
 
-EcoEvoRxiv reserves the right to update this publication policy at any time.
+EcoEvoRxiv reserves the right to update this hosting policy at any time.
 
 ## Licensing {.unnumbered}
 
