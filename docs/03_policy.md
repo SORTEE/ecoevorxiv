@@ -1,6 +1,6 @@
 # EcoEvoRxiv submission policy {#policy}
 
-EcoEvoRxiv ("eco-evo-archive") is an open, volunteer-run preprint server designed to facilitate rapid dissemination of research in ecology, evolutionary biology, conservation biology, and related fields. We are not a journal and do not evaluate the scientific quality of a paper. However, we do have a submission policy to ensure the appropriate community standards are upheld, and that relevant material is hosted on our server. To ensure your submission will pass moderation, we encourage you to carefully review our policy and submission guide.
+EcoEvoRxiv ("eco-evo-archive") is a not-for-profit, volunteer-run preprint server designed to facilitate rapid dissemination of research in ecology, evolutionary biology, conservation biology, and related fields. We are not a journal and do not evaluate the scientific quality of a paper. However, we do have a submission policy to ensure the appropriate community standards are upheld, and that relevant material is hosted on our server. To ensure your submission will pass moderation, we encourage you to carefully review our policy and submission guide.
 
 As submissions are not peer-reviewed before being posted online, they might contain errors, and report information that has not yet been accepted or endorsed in any way by the scientific community. Hosting work on EcoEvoRxiv does not imply endorsement of methods, assumptions, conclusions or scientific quality by EcoEvoRxiv.
 
