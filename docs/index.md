@@ -2,7 +2,7 @@
 title: "EcoEvoRxiv"
 author: "SORTEE"
 description: "Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology"
-date: "Last updated: 2025-08-18"
+date: "Last updated: 2025-12-29"
 site: bookdown::bookdown_site
 url: https://sortee.github.io/ecoevorxiv/
 github-repo: "SORTEE/ecoevorxiv"
@@ -13,7 +13,7 @@ colorlinks: yes
 
 
 
-2025-08-18
+2025-12-29
 
 <summary style="font-size:20px">
 
@@ -25,16 +25,18 @@ colorlinks: yes
 
 EcoEvoRxiv ("eco-evo-archive") is a not-for-profit subject-matter specific research repository for works related to ecology, evolution, conservation, and related fields. The archived works can be empirical, theoretical, reviews or of any other research-related type.
 
-The EcoEvoRxiv server (https://ecoevorxiv.org/) can be used for freely and legally sharing preprints, postprints, reports, and datasets.\
+The EcoEvoRxiv server (<https://ecoevorxiv.org/>) can be used for freely and legally sharing preprints, postprints, reports, and datasets.\
 For more information about preprints and preprint servers, please see our [FAQ page](02_FAQ.html).
 
-## About Us {.unnumbered}
+If you have questions or concerns about EcoEvoRxiv, please contact [ecoevorxiv[at]sortee.org](mailto:ecoevorxiv@sortee.org).
+
+## About us {.unnumbered}
 
 EcoEvoRxiv started as part of the Transparency in Ecology and Evolution (TEE) movement in 2018, and was originally hosted by the [Open Science Framework](https://osf.io/). In October of 2022 the EcoEvoRxiv server [transitioned](https://cdlib.org/cdlinfo/2022/10/19/ecoevorxiv-partners-with-california-digital-library-to-re-launch-preprint-service-on-janeway/) to being hosted by the [California Digital Library](https://cdlib.org/services/pad/escholarship/), and EcoEvoRxiv became an official preprint server of the [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology](http://www.sortee.org/) (SORTEE).
 
-EcoEvoRxiv is administered by the EcoEvoRxiv Committee. The chair of this committee is selected by the Board of Directors of SORTEE, and the members of the EcoEvoRxiv committee are selected by the chair of the EcoEvoRxiv committee and the SORTEE board. If you would like to join the EcoEvoRxiv committee, please contact the [committee’s current chair](#people).
+EcoEvoRxiv is administered by the EcoEvoRxiv committee. The chair of this committee is selected by the Board of Directors of SORTEE, and the members of the EcoEvoRxiv committee are selected by the chair of the EcoEvoRxiv committee and the SORTEE board. If you would like to join the EcoEvoRxiv committee, please contact the [committee’s current chair](#people).
 
-## Follow Us {.unnumbered}
+## Follow us {.unnumbered}
 
 Stay updated by following us on [<img src="assets/twitter.png" alt="Twitter" width="25" height="25"/>](https://twitter.com/EcoEvoRxiv) or [<img src="assets/Bluesky_Logo.svg" alt="Bluesky" width="25" height="25"/>](https://bsky.app/profile/ecoevorxiv.bsky.social).
 
