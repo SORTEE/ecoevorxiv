@@ -4,7 +4,7 @@ EcoEvoRxiv is managed by the [SORTEE EcoEvoRxiv Committee](https://www.sortee.or
 
 ## Current committee members {-}
 
-- Chair: **Stefan Vriend**, Netherlands Institute of Ecology (NIOO-KNAW), The Netherlands [(Website)](https://nioo.knaw.nl/en/employees/stefan-vriend)
+- **Stefan Vriend**, Netherlands Institute of Ecology (NIOO-KNAW), The Netherlands [(Website)](https://nioo.knaw.nl/en/employees/stefan-vriend)
 - **Jenna Braun**, York University, Toronto, Canada
 - **Corné de Groot**, Ludwig Maximilian University of Munich, Germany [(Website)](https://scholar.google.com/citations?user=eTPSb1IAAAAJ&hl=en)
 - **Charlène Gémard**, ECoBird, Ghent University, Belgium [(Website)](https://www.linkedin.com/in/charlene-gemard/)
