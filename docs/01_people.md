@@ -1,8 +1,29 @@
 # People {#people}
 
-EcoEvoRxiv is managed by the [SORTEE EcoEvoRxiv Committee](https://www.sortee.org/people/#ecoevorxiv-committee), co-chaired by [Daniel Noble](http://nobledan.com/) and [Stefan Vriend](https://nioo.knaw.nl/en/employees/stefan-vriend).
+EcoEvoRxiv is managed by the [SORTEE EcoEvoRxiv Committee](https://www.sortee.org/people/#ecoevorxiv-committee).
 
-## Founding committee members {-}
+## Current committee members {-}
+
+- Chair: **Stefan Vriend**, Netherlands Institute of Ecology (NIOO-KNAW), The Netherlands [(Website)](https://nioo.knaw.nl/en/employees/stefan-vriend)
+- **Jenna Braun**, York University, Toronto, Canada
+- **Corné de Groot**, Ludwig Maximilian University of Munich, Germany [(Website)](https://scholar.google.com/citations?user=eTPSb1IAAAAJ&hl=en)
+- **Charlène Gémard**, ECoBird, Ghent University, Belgium [(Website)](https://www.linkedin.com/in/charlene-gemard/)
+- **Yseult Héjja-Brichard**, Department of Interdisciplinary Life Sciences, University of Veterinary Medicine & Faculty of Life Sciences, University of Vienna, Austria [(Website)](https://yseulthb.github.io/)
+- **Lise Layotte**, Norwegian University of Life Sciences (NMBU), Norway
+- **Brooke Long-Fox**, MorphoBank, Phoenix Bioinformatics, USA
+- **Giulia Masoero**, Swiss Ornithological Institute, Sempach, Switzerland [(Website)](https://giuliamasoero.github.io/)
+- **Niladri Mondal**, Department of Biology, KU Leuven, Belgium [(Website)](https://niladrimondal.weebly.com/)
+- **Varsha Rani**, HUN‐REN Centre for Ecological Research & Eötvös Loránd University, Budapest, Hungary [(Website)](https://ecolres.hun-ren.hu/en/munkatarsak/varsha-rani/)
+- **Tom Ratz**, University of Zurich, Switzerland [(Website)](http://tomratz.weebly.com/)
+- **Pablo Recio Santiago**, Flinders University, Australia [(Website)](https://www.researchgate.net/profile/Pablo-Recio?ev=hdr_xprf)
+- **Matheus M. A. Salles**, Universidade Federal do Paraná, Brazil
+- **Birgit Szabo**, Centre for Research on Ecology, Cognition and Behaviour of Birds (EcoBird), Department of Biology, Gent University, Belgium
+- **Karolina Wąchała**, University of Bern, Switzerland [(Website)](https://bsky.app/profile/wachalak.bsky.social)
+- **Mark Young**, School of Biological Sciences, University of Southampton, UK [(Website)](https://sites.google.com/view/drmarkyoung)
+- **Felix Zimmermann**, Swiss Federal Research Institute for Forest, Snow, and Landscape Research WSL, Birmensdorf, Switzerland [(Website)](https://www.wsl.ch/en/staff/zimmermf/)
+
+
+## Founding members {-}
 
 - [Shinichi Nakagawa - UNSW Sydney, Australia](http://www.i-deel.org/shinichi-nakagawa.html)
 - [Fiona Fidler - University of Melbourne, Australia](https://fionaresearch.wordpress.com/about/)
@@ -19,21 +40,3 @@ EcoEvoRxiv is managed by the [SORTEE EcoEvoRxiv Committee](https://www.sortee.or
 - [Julia Schroeder - Imperial College London, UK](https://www.imperial.ac.uk/people/julia.schroeder)
 - [Naupaka Zimmerman - University of San Francisco, USA](http://naupaka.net/)
 - [Irene Adrian-Kalchhauser - University of Basel, Switzerland](https://mgu.unibas.ch/en/team/irene-adrian-kalchhauser/)
-
-
-## Ambassadors {-}
-
-- [Keisuke Atsumi - Hokkaido University, Japan](https://ugui-guigui.wixsite.com/ugui-guigui)
-- [Jose Cerca - Natural History Museum in Oslo](http://jcerca.org/)
-- [Aaron Eger - UNSW Sydney, Australia](http://aaroneger.weebly.com)
-- [Hannah Fraser  - University of Melbourne, Australia](https://hsfraser.wordpress.com/)
-- [Fonti Kar - UNSW Sydney, Australia](https://fontikar.wordpress.com/)
-- [Malgorzata Lagisz - UNSW Sydney, Australia](www.mlagisz.weebly.com)
-- [Carlos Esteban Lara - Universidad de Antioquia, Colombia](https://scholar.google.co.nz/citations?user=NmWyTbwAAAAJ&hl=en)
-- [Anita J Norman - Swedish University of Agricultural Sciences, Umeå, Sweden](http://anitajnorman.weebly.com)
-- [Ursula Oggenfuss - University of Neuchâtel, Switzerland](https://www.unine.ch/biologie/en/home/collaborateurs/laboratoire-de-genetique-evoluti/ursula-oggenfuss.html)
-- [Rose O'Dea - UNSW Sydney, Australia](https://www.roseodea.com/)
-- [Andrew O'Reilly-Nugent - University of Canberra, Australia](http://aornugent.github.io)
-- [Jimoh Saheed Olaide - Chinese Academy of Agricultural Sciences (GRI-CAAS), China](jimoh_curriculum_vitae.pdf)
-- [Alfredo Sanchez-Tojar - University of Bielefeld, Germany](https://scholar.google.co.uk/citations?hl=en&user=Sh-Rjq8AAAAJ&view_op=list_works)
-- [Sil van Lieshout - University of Leeds, UK](https://biologicalsciences.leeds.ac.uk/biological-sciences/pgr/901/sil-van-lieshout)
