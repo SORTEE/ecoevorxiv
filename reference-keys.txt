@@ -11,6 +11,7 @@ when
 why-not
 why-ecoevorxiv
 submitting
+author-list-changes
 published-doi
 multiple-platforms
 policy

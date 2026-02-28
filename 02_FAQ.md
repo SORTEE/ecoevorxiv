@@ -54,6 +54,11 @@ For step-by-step guidance on submitting a preprint, please watch our [tutorial v
 </div>
 ```
 
+## How do I make changes to the list of authors? {#author-list-changes}
+Any changes to your preprint's list of authors (e.g., adding or removing authors, fixing typos in author names, or changing the order of authors) cannot be done by yourself. Reach out to us at [ecoevorxiv[at]sortee.org](mailto:ecoevorxiv@sortee.org) and we can help. 
+
+Please note that in the case of removal we require a written confirmation from the author wishing to be removed.
+
 ## My preprint is now accepted in a peer-reviewed journal. How can I connect the published DOI to my preprint on EcoEvoRxiv? {#published-doi}
 If your preprint has now been through peer review and been allocated a publication DOI you can easily update your preprint on *EcoEvoRxiv* to display the publication DOI. 
 
