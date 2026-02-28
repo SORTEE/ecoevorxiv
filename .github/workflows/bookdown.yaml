@@ -6,7 +6,7 @@ on:
   pull_request:
   workflow_dispatch:
 
-name: bookdown.yaml
+name: build and deploy
 
 permissions: read-all
 
@@ -48,4 +48,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.5.0
         with:
           branch: gh-pages
-          folder: .
+          folder: docs
