@@ -41,7 +41,7 @@ EcoEvoRxiv is administered by the EcoEvoRxiv committee. The chair of this commit
 
 ## Follow us {.unnumbered}
 
-Stay updated by following us on [<img src="assets/twitter.png" alt="Twitter" width="25" height="25"/>](https://twitter.com/EcoEvoRxiv) or [<img src="assets/Bluesky_Logo.svg" alt="Bluesky" width="25" height="25"/>](https://bsky.app/profile/ecoevorxiv.bsky.social).
+Stay updated by following us on [Bluesky](https://bsky.app/profile/ecoevorxiv.bsky.social).
 
 ```{js, echo = FALSE}
 title=document.getElementById('header');

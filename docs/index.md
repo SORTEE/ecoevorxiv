@@ -2,7 +2,7 @@
 title: "EcoEvoRxiv"
 author: "SORTEE"
 description: "Preprint repository from SORTEE: the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology"
-date: "Last updated: 2026-02-28"
+date: "Last updated: 2026-07-21"
 site: bookdown::bookdown_site
 url: https://sortee.github.io/ecoevorxiv/
 github-repo: "SORTEE/ecoevorxiv"
@@ -13,7 +13,7 @@ colorlinks: yes
 
 
 
-2026-02-28
+2026-07-21
 
 <summary style="font-size:20px">
 
@@ -38,7 +38,7 @@ EcoEvoRxiv is administered by the EcoEvoRxiv committee. The chair of this commit
 
 ## Follow us {.unnumbered}
 
-Stay updated by following us on [<img src="assets/twitter.png" alt="Twitter" width="25" height="25"/>](https://twitter.com/EcoEvoRxiv) or [<img src="assets/Bluesky_Logo.svg" alt="Bluesky" width="25" height="25"/>](https://bsky.app/profile/ecoevorxiv.bsky.social).
+Stay updated by following us on [Bluesky](https://bsky.app/profile/ecoevorxiv.bsky.social).
 
 <script>
 title=document.getElementById('header');
